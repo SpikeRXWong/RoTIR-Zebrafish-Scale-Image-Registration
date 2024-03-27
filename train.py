@@ -11,8 +11,8 @@ import time
 
 import torch
 
-from model_scale import ImageRegistration, Matching_Loss
-from dataset_scale import ArtificialMatchingImageDataset, RealMatchingImageDataset
+from model import ImageRegistration, Matching_Loss
+from dataset import ArtificialMatchingImageDataset, RealMatchingImageDataset
 # from math import log
 
 def parse_args():

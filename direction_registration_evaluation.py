@@ -8,12 +8,12 @@ Created on Mon Jun 19 21:50:57 2023
 import argparse
 import torch
 
-from model_scale import ImageRegistration
+from model import ImageRegistration
 import os
 
 from torchvision.transforms.functional import crop, rotate
 
-from dataset_scale import matrix_calculation_function, affine_transform
+from dataset import matrix_calculation_function, affine_transform
 
 from ssim import SSIM
 import torchvision.transforms as T
