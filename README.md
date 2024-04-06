@@ -17,3 +17,19 @@ This is a PyTorch implementation of the RoTIR model.
 * e2cnn==0.2.2
 * einops==0.6.0
 * [pyssim](https://github.com/jterrace/pyssim.git)
+
+## Workflow and Network Architecture
+
+<img src="_readme/fig_1.PNG" width=300> 
+
+## Dataset Synthesis
+
+<img src="_readme/fig_2.PNG" width=300> 
+
+## Results
+1. Result table
+<img src="_readme/tab_1.PNG" width=230> 
+2. Transformed results
+<img src="_readme/fig_3.PNG" width=300> 
+3. Feature matching
+<img src="_readme/fig_4.PNG" width=300> 
