@@ -36,4 +36,4 @@ This is a PyTorch implementation of the RoTIR model.
 
 ## Test
 
-Zebrafish scale image registration test is present in [Fish scale registration whole process.ipynb](Fish scale registration whole process.ipynb)
+Zebrafish scale image registration test is present in [Fish scale registration whole process.ipynb](https://github.com/SpikeRXWong/RoTIR-Zebrafish-Scale-Image-Resigtration/blob/main/Fish%20scale%20registration%20whole%20process.ipynb)
