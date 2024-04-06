@@ -20,16 +20,20 @@ This is a PyTorch implementation of the RoTIR model.
 
 ## Workflow and Network Architecture
 
-<img src="_readme/fig_1.PNG" width=300> 
+<img src="_readme/fig_1.PNG" width=600> 
 
 ## Dataset Synthesis
 
-<img src="_readme/fig_2.PNG" width=300> 
+<img src="_readme/fig_2.PNG" width=600> 
 
 ## Results
 1. Result table
-<img src="_readme/tab_1.PNG" width=230> 
+<img src="_readme/tab_1.PNG" width=400> 
 2. Transformed results
-<img src="_readme/fig_3.PNG" width=300> 
+<img src="_readme/fig_3.PNG" width=600> 
 3. Feature matching
-<img src="_readme/fig_4.PNG" width=300> 
+<img src="_readme/fig_4.PNG" width=600> 
+
+## Test
+
+Zebrafish scale image registration test is present in [Fish scale registration whole process.ipynb](Fish scale registration whole process.ipynb)
