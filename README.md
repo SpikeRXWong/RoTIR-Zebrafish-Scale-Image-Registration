@@ -2,7 +2,6 @@
 
 This is a PyTorch implementation of the RoTIR model.
 
-10.1007/978-3-031-66955-2_20
 DOI: [10.1007/978-3-031-66955-2_20](https://link.springer.com/chapter/10.1007/978-3-031-66955-2_20)
 
 Presentation Video:
