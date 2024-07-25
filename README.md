@@ -1,11 +1,18 @@
 # RoTIR: Rotation-Equivariant Network and Transformers for Zebraish Scale Image Registration
 
 This is a PyTorch implementation of the RoTIR model.
+DOI: 10.1007/978-3-031-66955-2_20
+Presentation Video:
+[![RoTIR Presentation on MIUA 2024](https://path/to/your/image.png)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=wc4t63IJFiE&list=PLFm8siRFfuk1N__sqp0EkgIzrecF-YW7i))
 
 ## Author
-* Ruixiong Wang, Visual Information Laboratory, University of Brsitol
-* Alin Achim, Visual Information Laboratory, University of Brsitol
-* Stephen Cross, Wolfson Bioimaging Facility, University of Brsitol
+* Ruixiong Wang, Visual Information Laboratory, University of Bristol
+* Alin Achim, Visual Information Laboratory, University of Bristol
+* Renata Raele-Rolfe, School of Biochemistry, University of Bristol
+* Qiao Tong, School of Physiology, Pharmacology and Neuroscience, University of Bristol
+* Dylan Bergen, School of Physiology, Pharmacology and Neuroscience, University of Bristol
+* Chrissy Hammond, School of Physiology, Pharmacology and Neuroscience, University of Bristol
+* Stephen Cross, Wolfson Bioimaging Facility, University of Bristol
  
 ## Requirements:
 * Python == 3.7.10
