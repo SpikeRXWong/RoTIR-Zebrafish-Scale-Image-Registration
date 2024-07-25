@@ -6,7 +6,7 @@ DOI: [10.1007/978-3-031-66955-2_20](https://link.springer.com/chapter/10.1007/97
 
 Presentation Video:
 
-[![RoTIR Presentation on MIUA 2024]([https://path/to/your/image.png](https://github.com/SpikeRXWong/RoTIR-Zebrafish-Scale-Image-Registration/blob/main/_readme/MIUA_RoTIR_presentation_(Title).png))]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=wc4t63IJFiE&list=PLFm8siRFfuk1N__sqp0EkgIzrecF-YW7i))
+[![RoTIR Presentation at MIUA 2024](_readme/MIUA_RoTIR_presentation_(Title).png)](https://www.youtube.com/watch?v=wc4t63IJFiE&list=PLFm8siRFfuk1N__sqp0EkgIzrecF-YW7i)
 
 ## Author
 * Ruixiong Wang, Visual Information Laboratory, University of Bristol
