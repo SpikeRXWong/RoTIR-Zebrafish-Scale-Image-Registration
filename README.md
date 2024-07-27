@@ -56,6 +56,6 @@ python train.py -l 1e-3 -n 25000 -s 512 -loss_weight 1 10 20 20 --score_weight 1
 Test of zebrafish scale image registration on 7 unprocessed [image pairs](https://github.com/SpikeRXWong/RoTIR-Zebrafish-Scale-Image-Resigtration/tree/main/test_image) is present in [Fish scale registration whole process.ipynb](https://github.com/SpikeRXWong/RoTIR-Zebrafish-Scale-Image-Resigtration/blob/main/Fish%20scale%20registration%20whole%20process.ipynb), using [pre-trained model](https://github.com/SpikeRXWong/RoTIR-Zebrafish-Scale-Image-Resigtration/tree/main/pre_trained)
 
 ## Citation 
-```bash
+
 Wang, R. et al. (2024). RoTIR: Rotation-Equivariant Network and Transformers for Zebrafish Scale Image Registration. In: Yap, M.H., Kendrick, C., Behera, A., Cootes, T., Zwiggelaar, R. (eds) Medical Image Understanding and Analysis. MIUA 2024. Lecture Notes in Computer Science, vol 14859. Springer, Cham. https://doi.org/10.1007/978-3-031-66955-2_20
-```
+
